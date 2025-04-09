@@ -22,7 +22,7 @@ public class prime_or_not {
             else{
                 System.out.println("not prime");
             }
-        }
+         }
 
     }
 }
