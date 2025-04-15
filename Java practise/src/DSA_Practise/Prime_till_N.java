@@ -22,6 +22,6 @@ public class Prime_till_N {
             if (count == 0){
                 System.out.println(n);
             }
-    }
+        }
     }
 }
